@@ -1,7 +1,7 @@
  
 1.	What does the whoami command tell you?
     
-    a.	Displays my username: “kem296”
+    a.	Displays my username: “netID”
 
 
 2.	What does the pwd command tell you?
@@ -25,7 +25,7 @@ ls -l shows a list of files and directories with information about them
  
 4.	You can type cd ~ from any directory in a Linux file system and the outcome will be the same. Why?
     
-    a.	cd ~ brought me back to my home (kem296) directory, meaning if you type it while in any directory you will be brought home.
+    a.	cd ~ brought me back to my home (netID) directory, meaning if you type it while in any directory you will be brought home.
  
 
 5.	What does cd .. do? Why does cd . not appear to do anything?
