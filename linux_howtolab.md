@@ -1,7 +1,7 @@
  
 1.	What does the whoami command tell you?
     
-    a.	Displays my username: “netID”
+    a.	Displays my username: “ ' netID ' ”
 
 
 2.	What does the pwd command tell you?
